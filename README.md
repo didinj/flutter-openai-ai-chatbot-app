@@ -1,6 +1,6 @@
 # Build an AI Chatbot App with Flutter and OpenAI
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6895b05ff1b0861b18496a2b/build-an-ai-chatbot-app-with-flutter-and-openai).
 
 A new Flutter project.
 
